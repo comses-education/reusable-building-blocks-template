@@ -11,8 +11,8 @@ date-released: 2022-07-08
 version: 
 authors:
     - family-names: Yours
-      given-name: Truly
+      given-names: Truly
       orcid: https://orcid.org/0000-0002-6523-6079
     - family-names: Author
-      given-name: Another
+      given-names: Another
       orcid: https://orcid.org/0000-0001-2345-6789
