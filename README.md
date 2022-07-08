@@ -27,7 +27,7 @@ Pseudocode and/or visual diagrams or flow charts describing the submodel of the 
 
 ## Source Code
 
-Qualified references to the precise versions of the RBB code - these should be persistent identifiers like a DOI or permanent URL that ideally follows the FAIR4RS Principles
+Qualified references to the precise versions of the RBB code - these should be persistent identifiers like a DOI or permanent URL that ideally follows the [FAIR4RS Principles](https://github.com/comses-education/fair-osg-template/wiki/FAIR-Principles-for-Research-Software)
 
 ## Example implementation
 
