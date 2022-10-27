@@ -2,17 +2,22 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-version: 1.0.0
-message: 'If you use this reusable building block, please cite it as below'
-title: 'My First Fisher-Price Reusable Building Block'
+title: My First Fisher-Price Reusable Building Block
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
 type: software
-doi: 10.5281/zenodo.1234
-date-released: 2022-07-08
-version: 
 authors:
-    - family-names: Yours
-      given-names: Truly
-      orcid: https://orcid.org/0000-0002-6523-6079
-    - family-names: Author
-      given-names: Another
-      orcid: https://orcid.org/0000-0001-2345-6789
+  - given-names: Allen
+    family-names: Lee
+    email: allen.lee@asu.edu
+    affiliation: Arizona State University
+    orcid: 'https://orcid.org/0000-0002-6523-6079'
+  - given-names: Another
+    family-names: Collaborator
+    email: your.coauthor@mailinator.com
+    affiliation: Other Institution
+    orcid: 'https://orcid.org/0000-0001-2345-6789'
+license: MIT
+version: 1.0.0
+date-released: '2022-07-07'

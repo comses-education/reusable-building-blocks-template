@@ -1,6 +1,24 @@
+IMPORTANT: remove this text and everything else before the lines below after deciding on an open source license for your
+RBB.
+
+For help choosing a license, please see
+
+https://choosealicense.com/ 
+
+or
+
+https://tldrlegal.com/
+
+for more information.
+
+Be sure to replace the $CURRENT_YEAR and $COPYRIGHT_HOLDER below for your
+particular circumstances.
+==============================================================================
+
+
 MIT License
 
-Copyright (c) 2022 CoMSES Net: Education
+Copyright (c) $CURRENT_YEAR $COPYRIGHT_HOLDER
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
