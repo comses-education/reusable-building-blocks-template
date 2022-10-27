@@ -57,9 +57,9 @@ Durable references (i.e., permanent identifiers or URLs) to other related RBBs.
 
 # Tier 2
 
-A documentation of RBB in the spirit of the ODD protocol for describing ABMs. After reading this documentation, in
-principle users should be able to re-implement the RBB themselves and completely understand what the RBB is doing and
-how. The documentation should all Tier 1 requirements and the following additional fields:
+Tier 2 RBBs require documentation of the RBB in the spirit of the ODD protocol for describing ABMs. After reading Tier 2 RBB documentation a human should be capable of re-implementing the RBB themselves and completely understand what the RBB is doing and how. 
+
+Tier 2 RBBs should meet all Tier 1 requirements with the following additions as well as more detailed descriptions of a few of the Tier 1 fields.
 
 ## Keywords
 
@@ -120,14 +120,14 @@ other farmers use their land. Note that the calling and affecting agents can be 
 
 ### Patterns and data to determine global variables & parameters and/or to claim that the model is realistic enough for its purpose
 
--  Which of the variables (or parameters) have an empirical meaning and can, in principle, be determined directly.
+-  Which of the variables (or parameters) have an empirical meaning and can, in principle, be determined directly?
 -  Which variables can be only determined via calibration?
 -  Which data or patterns can be used for calibration?
--  Which data sets do already exist (references)?
+-  Which data sets already exist? (include durable references)
 
 ### Interface
 
-- What specific inputs does the RBB require from an external, calling entity and in which unites?
+- What specific inputs does the RBB require from an external, calling entity and in what units (e.g., [CSDMS Standard Names](https://csdms.colorado.edu/wiki/CSN_Examples) and [UDUnits](https://www.unidata.ucar.edu/software/udunits/))?
 - What specific outputs does it produce and how does this update the state variables of the calling entity?
 
 ### Scales
