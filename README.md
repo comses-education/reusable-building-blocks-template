@@ -85,7 +85,7 @@ Create a citation for this RBB according to the
 
 This can be easily adopted by editing the 
 [CITATION.cff file](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
-within this repository after
+in **this repository** *before*
 [publishing this RBB in Zenodo](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content). 
 
 Then, edit this section and indicate how you'd like for this RBB to be cited, e.g.,
@@ -128,14 +128,14 @@ other farmers use their land. Note that the calling and affecting agents can be 
 ### Interface
 
 - What specific inputs does the RBB require from an external, calling entity and in what units (e.g., [CSDMS Standard Names](https://csdms.colorado.edu/wiki/CSN_Examples) and [UDUnits](https://www.unidata.ucar.edu/software/udunits/))?
-- What specific outputs does it produce and how does this update the state variables of the calling entity?
+- What specific outputs (also specifying units and as much semantic information as possible) does it produce and how should these outputs be interpreted to update the state variables of the calling entity?
 
 ### Scales
 - On which spatio-temporal scales does the RBB work, i.e. what are the resolution and extent of the spatial and temporal scale?
 
 ### Details
 
-How, in detail, does the RBB work? This should be written description that
+How, in detail, does the RBB work? This should be a narrative description that
 describes the code implementing the RBB and can include equations and
 pseudo-code which is particularly important if the RBB involves several
 processes.
@@ -162,7 +162,7 @@ under different settings, the RBB performs, including extreme scenarios.
 What is the history of the RBB? Is it entirely new or based on earlier
 submodels, or an implementation of an existing submodel? 
 
-Has the RBB, or its predecessors, been used in literature?
+Has the RBB, or its predecessors, been used in the literature?
 
 Include a reference list of publications where the RBB was successfully used.
 
