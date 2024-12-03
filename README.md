@@ -1,7 +1,8 @@
 # Reusable Building Blocks
 
-This is a template repository for the Reusable Building Blocks (RBB) Initiative. (TODO: insert reference to RBB position
-paper or living document). 
+This is a template repository for the Reusable Building Blocks (RBB) Initiative. See https://agentblocks.org for the official website. 
+
+Additional discussion and context can be found in our paper in Environmental Modelling & Software: "[Towards reusable building blocks for agent-based modelling and theory development](https://doi.org/10.1016/j.envsoft.2024.106003)".
 
 > RBBs are submodels that describe processes relevant for a broad range of ABMs in a certain application domain, for
 > example plant competition in vegetation models or reinforcement learning in a behavioral model.
